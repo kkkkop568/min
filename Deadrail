@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kkkkop568/ min/main/mobilehub.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kkkkop568/min/main/mobilehub.lua", true))()
